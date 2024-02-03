@@ -220,7 +220,7 @@ img {
   display: flex;
   margin-bottom: 8px;
   border-radius: 4px;
-  border: 1px solid  #8e8f99;
+  border: 1px solid #8e8f99;
   background-color: #f4f4fd;
   align-items: center;
   padding: 24px 100px;
@@ -269,8 +269,8 @@ img {
   border-radius: 0 0 4px 4px;
   background-color: #ffffff;
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-  0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-  0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .team-units {
@@ -366,7 +366,6 @@ img {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
-
   background-color: #4d5ae5;
   position: absolute;
   top: 0;
@@ -416,7 +415,6 @@ img {
 .footer-logo-container {
   margin-right: 120px;
 }
-
 
 .footer-paragraph {
   width: 264px;
